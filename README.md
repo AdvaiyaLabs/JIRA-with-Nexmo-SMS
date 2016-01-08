@@ -44,7 +44,7 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
 ## Steps to install JIRA with Nexmo SMS add-on
 
-1.  Visit the target Git repository using the URL - https://github.com/advaiyalabs/
+1.  Visit the target Git repository using the URL - https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS
 
 2.  Click on **Download ZIP** as shown in the below image:
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image3.png">
