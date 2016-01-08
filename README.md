@@ -26,8 +26,7 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
     -   Hi &lt;assignee\_name&gt;, the &lt;IssueType&gt; &lt;IssueName&gt; is reopened and assigned to you by &lt;reporter name&gt;.
 
-Prerequisites 
-==============
+## Prerequisites 
 
 -   Preinstalled and running JIRA server hosted on server.
 
@@ -35,8 +34,7 @@ Prerequisites
 
 -   Nexmo subscription and corresponding Nexmo API keys (Keys and Secret). To access the Nexmo API keys, see appendix section.
 
-Features 
-=========
+## Features 
 
 -   Sends SMS to the issue assignee and reporter.
 
@@ -48,8 +46,7 @@ Features
 
 -   This add-on fully supports the JIRA workflow and classic default JIRA workflow; some other work flows are partially supported.
 
-Steps to install JIRA with Nexmo SMS add-on
-===========================================
+## Steps to install JIRA with Nexmo SMS add-on
 
 1.  Visit the target Git repository using the URL - https://github.com/advaiyalabs/
 
@@ -114,8 +111,7 @@ Steps to install JIRA with Nexmo SMS add-on
 
 14. Click on **Save** to complete the add-on installation and save all the settings.
 
-<span id="_Toc432770621" class="anchor"><span id="_Toc439939548" class="anchor"></span></span>Steps to use JIRA with Nexmo SMS add-on
-=====================================================================================================================================
+## <span id="_Toc432770621" class="anchor"><span id="_Toc439939548" class="anchor"></span></span>Steps to use JIRA with Nexmo SMS add-on
 
 JIRA users (assignee and reporter) will receive an SMS when a new issue is assigned, issue is resolved or reopened.
 
@@ -127,8 +123,7 @@ JIRA users (assignee and reporter) will receive an SMS when a new issue is assig
 
 <span id="_Toc432770622" class="anchor"></span>
 
-Appendix
-========
+## Appendix
 
 <span id="_Toc432770623" class="anchor"><span id="_Toc439939550" class="anchor"></span></span>Nexmo API Keys
 ------------------------------------------------------------------------------------------------------------
