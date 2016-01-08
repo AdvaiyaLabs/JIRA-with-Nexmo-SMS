@@ -1,6 +1,6 @@
-## JIRA with Nexmo SMS
+# JIRA with Nexmo SMS
 
-<img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image3.png" width="200">
+<img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image1.png" width="200">
 
 ## Introduction
 
