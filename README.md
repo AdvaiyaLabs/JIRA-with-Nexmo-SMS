@@ -1,5 +1,7 @@
 ## JIRA with Nexmo SMS
 
+<img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image3.png" width="200">
+
 ## Introduction
 
 **JIRA with Nexmo SMS** add-on provides extended notification feature in JIRA. JIRA users can receive notification on their mobile via SMS. JIRA with Nexmo SMS add-on enables JIRA to send SMS notifications to JIRA users (issue assignee and reporter) when a new issue is assigned, resolved or reopened. JIRA administrator can configure JIRA projects with issue types and issue priorities in which SMS notification is required, and also the admin can enable and disable selected events like issue assigned, issue resolved or issue reopened of JIRA with Nexmo SMS add-on.
