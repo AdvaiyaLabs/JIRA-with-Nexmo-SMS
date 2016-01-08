@@ -55,15 +55,15 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
 5.  Navigate to **Settings**-&gt;**Add-ons** as shown in the image below:
 
-    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image4.png">
+    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image4.PNG">
 
 6.  Click on **Upload add-on** in Add-ons tab
 
-    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image5.png">
+    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image5.PNG">
 
 7.  Click on **Choose File** and select the **JIRA with Nexmo SMS-1.0** file from the folder where you have unzipped the downloaded file Jira with Nexmo SMS-1.0
 
-    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image6.png">
+    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image6.PNG">
 
 8.  Click on **Upload** to start the upload process.
 
@@ -71,15 +71,15 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
 9.  On **Installed and ready to go!** screen, click on **Close** to continue.
 
-    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image8.png">
+    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image8.PNG">
 
 10. In the list of user-installed add-ons, newly installed add-on **JIRA with Nexmo SMS** is available.
 
-    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image9.png">
+    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image9.PNG">
 
 11. On Jira administration screen, under the **Manage add-ons** section, click on **Nexmo Configuration** option in the side bar**.**
 
-    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image10.png">
+    <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image10.PNG">
 
 12. On Nexmo configuration page, provide the following inputs:
 
@@ -91,7 +91,7 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
         1.  Select **From Number** which is used to send messages. (these are virtual numbers you subscribed from Nexmo)
 
-            <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image12.png">
+            <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image12.PNG">
 
         2.  Select specific projects from **All Projects**, multiple projects can be selected.
 
@@ -101,7 +101,7 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
         5.  In Jira, by default there is no field for Phone Number, so you have to create a custom Phone Number field. If you have already created such field, you will have to choose it from the **From Number** dropdown.
 
-            <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image13.png">
+            <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image13.PNG">
 
 13. To enable JIRA with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Issue Events (Issue Assigned, Issue Resolved and Issue Reopened)
 
