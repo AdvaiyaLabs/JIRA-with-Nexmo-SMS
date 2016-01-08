@@ -1,8 +1,4 @@
-<img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image1.png">
-
-*“Always be aware of JIRA issues for your favorite Project(s) via SMS”*
-
-<img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image2.png">
+## JIRA with Nexmo SMS
 
 ## Introduction
 
