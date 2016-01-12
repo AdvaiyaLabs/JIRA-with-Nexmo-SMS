@@ -48,41 +48,41 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
 1.  Visit the target Git repository using the [ URL ] (https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/package/JIRA%20with%20Nexmo%20SMS-1.0.jar).
 
-2.  Click on **Raw** as shown, app's zip file will get downloaded.
+2.  Click on **Raw** as shown, app's .jar file will get downloaded.
 
 	<img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image19.png" width="300">
 
-4.  Login with admin user on JIRA server.
+3.  Login with admin user on JIRA server.
 
-5.  Navigate to **Settings**-&gt;**Add-ons** as shown in the image below:
+4.  Navigate to **Settings**-&gt;**Add-ons** as shown in the image below:
 
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image4.PNG">
 
-6.  Click on **Upload add-on** in Add-ons tab
+5.  Click on **Upload add-on** in Add-ons tab
 
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image5.PNG">
 
-7.  Click on **Choose File** and select the **JIRA with Nexmo SMS-1.0** file from the folder where you have unzipped the downloaded file Jira with Nexmo SMS-1.0
+6.  Click on **Choose File** and select the downloaded .jar file.
 
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image6.PNG">
 
-8.  Click on **Upload** to start the upload process.
+7.  Click on **Upload** to start the upload process.
 
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image7.png">
 
-9.  On **Installed and ready to go!** screen, click on **Close** to continue.
+8.  On **Installed and ready to go!** screen, click on **Close** to continue.
 
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image8.PNG">
 
-10. In the list of user-installed add-ons, newly installed add-on **JIRA with Nexmo SMS** is available.
+9. In the list of user-installed add-ons, newly installed add-on **JIRA with Nexmo SMS** is available.
 
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image9.PNG">
 
-11. On Jira administration screen, under the **Manage add-ons** section, click on **Nexmo Configuration** option in the side bar**.**
+10. On Jira administration screen, under the **Manage add-ons** section, click on **Nexmo Configuration** option in the side bar**.**
 
     <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image10.PNG">
 
-12. On Nexmo configuration page, provide the following inputs:
+11. On Nexmo configuration page, provide the following inputs:
 
     1.  Set Nexmo Key and Nexmo Secret.
 
@@ -104,9 +104,9 @@ For example - any new issue is created and assigned in XYZ Project, the add-on w
 
             <img src="https://github.com/AdvaiyaLabs/JIRA-with-Nexmo-SMS/blob/master/docs/image13.PNG">
 
-13. To enable JIRA with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Issue Events (Issue Assigned, Issue Resolved and Issue Reopened)
+12. To enable JIRA with Nexmo SMS feature, select the check box **Enable SMS** and select the check box of respective Issue Events (Issue Assigned, Issue Resolved and Issue Reopened)
 
-14. Click on **Save** to complete the add-on installation and save all the settings.
+13. Click on **Save** to complete the add-on installation and save all the settings.
 
 ## <span id="_Toc432770621" class="anchor"><span id="_Toc439939548" class="anchor"></span></span>Steps to use JIRA with Nexmo SMS add-on
 
